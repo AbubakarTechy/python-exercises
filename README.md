@@ -1,4 +1,4 @@
 # Python Exercises
-This repository includes my Python practice exercises and learning tasks.. 
+This repository includes my Python practice exercises and learning tasks..  
  
  
